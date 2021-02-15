@@ -1,0 +1,22 @@
+total 36
+lrwxrwxrwx.   1 root      root          7 Jun  1  2018 bin -> usr/bin
+dr-xr-xr-x.   5 root      root       4096 Feb 17  2020 boot
+drwxr-xr-x   18 root      root       3180 Feb 14 22:49 dev
+drwxr-xr-x. 156 root      root      12288 Feb 15 06:47 etc
+drwxr-xr-x.   3 root      root         24 Feb 15 04:00 home
+lrwxrwxrwx.   1 root      root          7 Jun  1  2018 lib -> usr/lib
+lrwxrwxrwx.   1 root      root          9 Jun  1  2018 lib64 -> usr/lib64
+drwxr-xr-x.   2 root      root          6 Apr 11  2018 media
+drwxr-xr-x.   3 root      root         28 Sep 13  2018 mnt
+drwxr-xr-x.   7 root      root         73 Feb 15 03:58 opt
+-rw-r--r--    1 root      root         47 Feb  4  2020 pdcesx02164.bootstrap.log
+dr-xr-xr-x  281 root      root          0 Feb 14 22:49 proc
+-rw-r--r--    1 root      root         94 Nov  8  2019 rext03-0051.bootstrap.log
+dr-xr-x---.   8 root      root        245 Feb 15 03:59 root
+drwxr-xr-x   45 root      root       1460 Feb 15 07:43 run
+lrwxrwxrwx.   1 root      root          8 Jun  1  2018 sbin -> usr/sbin
+drwxr-xr-x.   3 nfsnobody nfsnobody    17 Feb 15 03:59 srv
+dr-xr-xr-x   13 root      root          0 Feb 14 22:49 sys
+drwxrwxrwt.  13 root      root       4096 Feb 15 08:13 tmp
+drwxr-xr-x.  13 root      root        155 Jun  1  2018 usr
+drwxr-xr-x.  23 root      root       4096 Feb 15 03:52 var
